@@ -88,7 +88,14 @@
 * Visualização de dados
 * Padronizações
 * Resolução de problemas com base em dados
-# NumPy
+
+</details>
+
+<details open>
+  <summary>
+    <h3>Numpy</h3>
+  </summary>
+  
 https://www.w3schools.com/python/numpy/default.asp
 
 As matrizes NumPy são armazenadas em um local contínuo na memória, ao contrário das listas, para que os processos possam acessá-las e manipulá-las com muita eficiência.
@@ -105,19 +112,47 @@ Existe uma correlação entre duas ou mais colunas? O que é valor médio?Valor 
 
 * Utilizada para exploração de dados, manipulação e análise: usado para estruturas de dados e funções para carregar dados em CSV, manipular estrutura tabular.
 
-# Matplotlib
+</details>
+
+<details open>
+  <summary>
+    <h3>Matplotlib</h3>
+  </summary>
+
 https://www.w3schools.com/python/matplotlib_intro.asp
 
 * Matplotlib é uma biblioteca de plotagem de gráficos de baixo nível em python que serve como um utilitário de visualização.
-# Streamlit
+
+</details>
+
+<details open>
+  <summary>
+    <h3>Streamlit</h3>
+  </summary>
+  
+Matplotlib
 https://streamlit.io/
 
 * O Streamlit é uma biblioteca Python de código aberto que facilita a criação e o compartilhamento de aplicativos da Web bonitos e personalizados para aprendizado de máquina e ciência de dados. Em apenas alguns minutos, você pode criar e implantar aplicativos de dados poderosos.
-# seaborn
+
+</details>
+
+<details open>
+  <summary>
+    <h3>Seaborn</h3>
+  </summary>
+  
 https://seaborn.pydata.org/
 
 * Seaborn é uma biblioteca de visualização de dados Python baseada em matplotlib. Ele fornece uma interface de alto nível para o desenho gráficos estatísticos atraentes e informativos.
-# scikit-learn
+
+</details>
+
+<details open>
+  <summary>
+    <h3>scikit-learn</h3>
+  </summary>
+  
 https://scikit-learn.org/stable/index.html
 
 * Classificação Identificar a qual categoria um objeto pertence. Aplicativos: Detecção de spam, reconhecimento de imagem.
@@ -133,7 +168,14 @@ https://scikit-learn.org/stable/index.html
 * Pré-processamento Extração e normalização de recursos. Aplicativos: Transformar dados de entrada, como texto, para uso com algoritmos de aprendizado de máquina.
 
 Ferramentas simples e eficientes para análise preditiva de dados Acessível a todos e reutilizável em vários contextos Construído em NumPy, SciPy e matplotlib Código aberto, comercialmente utilizável - licença BSD
-# JupyterLab: Uma interface de notebook de última geração
+
+</details>
+
+<details open>
+  <summary>
+    <h3>JupyterLab: Uma interface de notebook de última geração</h3>
+  </summary>
+  
 https://jupyter.org/
 
 * O JupyterLab é o mais recente ambiente de desenvolvimento interativo baseado na Web para notebooks, código e dados. Sua interface flexível permite que os usuários configurem e organizem fluxos de trabalho em ciência de dados, computação científica, jornalismo computacional e aprendizado de máquina. Um design modular convida as extensões a expandir e enriquecer a funcionalidade.
@@ -145,7 +187,14 @@ https://www.anaconda.com/
 https://www.postgresql.org/
 
 * O PostgreSQL é um poderoso sistema de banco de dados objeto-relacional de código aberto com mais de 35 anos de desenvolvimento ativo que lhe valeu uma forte reputação de confiabilidade, robustez de recursos e desempenho.
-# Tipos de Gráficos.
+
+</details>
+
+<details open>
+  <summary>
+    <h3>Tipos de Gráficos.</h3>
+  </summary>
+  
 * Gráfico de barras : comparar frequência entre categorias
 
 * Gráfico de linhas : tendência ao longo do tempo
@@ -155,3 +204,5 @@ https://www.postgresql.org/
 * Gráfico de pizza : distribuição proporcional de diferentes categorias
 
 * Mapa : visualização de dados geoespaciais
+
+* Graficos interativos
