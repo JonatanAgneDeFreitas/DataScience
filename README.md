@@ -54,8 +54,8 @@
     <h3>Linguagens</h3>
   </summary>
   
-* [Python/Anaconda https://www.anaconda.com/]
-* [SQL/PostgreSQL https://www.postgresql.org/]
+* Python/Anaconda https://www.anaconda.com/
+* SQL/PostgreSQL https://www.postgresql.org/
   
 </details>
 
@@ -72,7 +72,14 @@
 * tabula
 * scikit-learn
 * Streamlit
-# Habilidades
+
+</details>
+
+<details open>
+  <summary>
+    <h3>Habilidades</h3>
+  </summary>
+  
 * Domínio do Python
 * Linguagem SQL/postgresql
 * Árvore de decisão na prática
