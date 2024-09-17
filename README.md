@@ -105,7 +105,14 @@ Esse comportamento é chamado de localidade de referência em ciência da comput
 Esta é a principal razão pela qual o NumPy é mais rápido do que as listas. Também é otimizado para trabalhar com as mais recentes arquiteturas de CPU.
 
 * NumPy fornece um grande conjunto de funções e operações de biblioteca que ajudam os programadores a executar facilmente cálculos numéricos.(Modelos Machine Learning, Processamento de Imagem e Computação Gráfica e Tarefas matemáticas
-# Pandas
+
+</details>
+
+<details open>
+  <summary>
+    <h3>Pandas</h3>
+  </summary>
+  
 https://www.w3schools.com/python/pandas/default.asp
 
 Existe uma correlação entre duas ou mais colunas? O que é valor médio?Valor máximo?Valor mínimo? Os pandas também podem excluir linhas que não são relevantes ou que contêm informações erradas valores, como valores vazios ou NULL. Isso é chamado de limpeza dos dados.
@@ -179,11 +186,25 @@ Ferramentas simples e eficientes para análise preditiva de dados Acessível a t
 https://jupyter.org/
 
 * O JupyterLab é o mais recente ambiente de desenvolvimento interativo baseado na Web para notebooks, código e dados. Sua interface flexível permite que os usuários configurem e organizem fluxos de trabalho em ciência de dados, computação científica, jornalismo computacional e aprendizado de máquina. Um design modular convida as extensões a expandir e enriquecer a funcionalidade.
-# Anaconda Tecnologia de ciência de dados para pesquisa inovadora.uma vantagem competitiva.um mundo melhor.
+
+</details>
+
+<details open>
+  <summary>
+    <h3>Anaconda Tecnologia de ciência de dados para pesquisa inovadora.uma vantagem competitiva.um mundo melhor.</h3>
+  </summary>
+
 https://www.anaconda.com/
 
 * A Anaconda oferece a maneira mais fácil de executar ciência de dados Python / R e aprendizado de máquina em uma única máquina. Comece a trabalhar com milhares de pacotes e bibliotecas de código aberto hoje mesmo.
-# PostgreSQL
+
+</details>
+
+<details open>
+  <summary>
+    <h3>PostgreSQL</h3>
+  </summary>
+  
 https://www.postgresql.org/
 
 * O PostgreSQL é um poderoso sistema de banco de dados objeto-relacional de código aberto com mais de 35 anos de desenvolvimento ativo que lhe valeu uma forte reputação de confiabilidade, robustez de recursos e desempenho.
