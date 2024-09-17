@@ -47,10 +47,20 @@
 # DataScience - EBAC
 --- Python versão 
 
-# Linguagem
+</details>
+
+<details open>
+  <summary>
+    <h3>Linguagens</h3>
+  </summary>
 * Python/Anaconda https://www.anaconda.com/
 * SQL/PostgreSQL https://www.postgresql.org/
-# Bibliotecas
+</details>
+
+<details open>
+  <summary>
+    <h3>Bibliotecas</h3>
+  </summary>
 * numpy
 * pandas
 * plotly
