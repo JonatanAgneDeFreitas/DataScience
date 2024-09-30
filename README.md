@@ -54,7 +54,8 @@
  > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/JonatanAgneDeFreitas/Credit-score/blob/main/Projeto-1.ipynb)
 
 * [**Projeto 02** | Previsão de renda](https://github.com/JonatanAgneDeFreitas/Previsao-de-renda-1)
- > [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)]()
+ > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/JonatanAgneDeFreitas/Previsao-de-renda-1/blob/main/Projeto%2001%20-%20Classificacao%20de%20credito.ipynb)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)]()
 
 </details>
 
