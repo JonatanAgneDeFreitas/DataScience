@@ -50,8 +50,11 @@
     <h1>Projetos</h1>
   </summary>
 
-* [**Projeto #01** | Credit-score](https://github.com/JonatanAgneDeFreitas/Credit-score)
-> [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/JonatanAgneDeFreitas/Credit-score/blob/main/Projeto-1.ipynb)
+* [**Projeto 01** | Credit-score](https://github.com/JonatanAgneDeFreitas/Credit-score)
+ > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/JonatanAgneDeFreitas/Credit-score/blob/main/Projeto-1.ipynb)
+
+* [**Projeto 02** | Previsão de renda](https://github.com/JonatanAgneDeFreitas/Previsao-de-renda-1)
+ > [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://github.com/JonatanAgneDeFreitas/Previsao-de-renda-1/blob/main/Projeto_02.py)
 
 </details>
 
