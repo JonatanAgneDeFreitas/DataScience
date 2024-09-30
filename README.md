@@ -51,7 +51,7 @@
   <summary>
     <h1>Projetos</h1>
   </summary>
-* [**Projeto #01** | Credit-score](https://github.com/JonatanAgneDeFreitas/Credit-score/)
+*  [Projeto #01 Credit-score](https://github.com/JonatanAgneDeFreitas/Credit-score/)
   
 </details>
 
