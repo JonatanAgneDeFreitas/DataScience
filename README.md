@@ -50,6 +50,9 @@
     <h1>Projetos</h1>
   </summary>
 
+* [**Projeto #01** | Credit-score](https://github.com/JonatanAgneDeFreitas/Credit-score)
+> [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/JonatanAgneDeFreitas/Credit-score/blob/main/Projeto-1.ipynb)
+
 </details>
 
 # DataScience - EBAC
