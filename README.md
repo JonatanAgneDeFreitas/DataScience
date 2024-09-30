@@ -50,6 +50,8 @@
     <h1>Projetos</h1>
   </summary>
 
+</details>
+
 # DataScience - EBAC
 --- Python versão 
 
