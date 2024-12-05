@@ -14,7 +14,10 @@ Segmentação de clientes utilizando o RFV (Recência, Frequência e Valor)
 
 #### [Requisitos]()
 ```bash
-
+numpy==1.26.4
+pandas==2.2.2
+streamlit==1.35.0
+XlsxWriter==3.2.0
 ```
 
 #### Instalação
