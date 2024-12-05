@@ -12,7 +12,7 @@ Segmentação de clientes utilizando o RFV (Recência, Frequência e Valor)
 
 ---
 
-#### [Requisitos]()
+#### [Requisitos](https://github.com/JonatanAgneDeFreitas/DataScience/blob/main/Mod%2031%20-%20Streamlit%20V/requirements.txt)
 ```bash
 numpy==1.26.4
 pandas==2.2.2
