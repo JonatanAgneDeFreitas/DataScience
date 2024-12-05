@@ -6,7 +6,7 @@
 Segmentação de clientes utilizando o RFV (Recência, Frequência e Valor)
 
 #### Link para a aplicação (*Deploy* do modelo/streamlit)
-https://ebac-modulo-31-streamlit-v-exercicio-1.onrender.com/
+
 
 [![Render](https://img.shields.io/badge/Render-46E3B7?&logo=render&logoColor=white)]()
 
