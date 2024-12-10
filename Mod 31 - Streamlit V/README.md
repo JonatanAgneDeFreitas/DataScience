@@ -3,12 +3,21 @@
 ---
 
 #### **Descrição:**
-Segmentação de clientes utilizando o RFV (Recência, Frequência e Valor)
+Segmentação de clientes utilizando o RFV.
+RFV significa recência, frequência, valor e é utilizado para segmentação de clientes baseado no comportamento
+de compras dos clientes e agrupa eles em clusters parecidos. Utilizando esse tipo de agrupamento podemos realizar 
+ações de marketing e CRM melhores direcionadas, ajudando assim na personalização do conteúdo e até a retenção de clientes.
+
+Para cada cliente é preciso calcular as componentes abaixo:
+
+- Recência (R): Quantidade de dias desde a última compra.
+- Frenquência (F): Quantidade total de compras no período.
+- Valor (V): Total de dinheiro gasto nas compras do período.
 
 #### Link para a aplicação (*Deploy* do modelo/streamlit)
 
 
-[![Render](https://img.shields.io/badge/Render-46E3B7?&logo=render&logoColor=white)]()
+[![Render](https://img.shields.io/badge/Render-46E3B7?&logo=render&logoColor=white)](https://deployrfvjaf.streamlit.app/)
 
 ---
 
