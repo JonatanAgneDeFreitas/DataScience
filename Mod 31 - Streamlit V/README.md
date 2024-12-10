@@ -17,7 +17,7 @@ Para cada cliente é preciso calcular as componentes abaixo:
 #### Link para a aplicação (*Deploy* do modelo/streamlit)
 
 
-[![Render](https://img.shields.io/badge/Render-46E3B7?&logo=render&logoColor=white)](https://deployrfvjaf.streamlit.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://deployrfvjaf.streamlit.app/)
 
 ---
 
