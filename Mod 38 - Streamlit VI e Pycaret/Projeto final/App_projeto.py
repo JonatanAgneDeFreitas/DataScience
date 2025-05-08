@@ -3,7 +3,6 @@ import pandas as pd
 import pickle
 from sklearn.base import BaseEstimator, TransformerMixin
 
-# Classe customizada usada no pipeline salvo
 class AplicarPCA(BaseEstimator, TransformerMixin):
     def __init__(self, n_components=5):
         self.n_components = n_components
